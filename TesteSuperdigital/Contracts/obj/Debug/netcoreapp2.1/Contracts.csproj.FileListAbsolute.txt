@@ -1,0 +1,8 @@
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Contracts\bin\Debug\netcoreapp2.1\Contracts.deps.json
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Contracts\bin\Debug\netcoreapp2.1\Contracts.dll
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Contracts\bin\Debug\netcoreapp2.1\Contracts.pdb
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Contracts\obj\Debug\netcoreapp2.1\Contracts.csproj.CoreCompileInputs.cache
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Contracts\obj\Debug\netcoreapp2.1\Contracts.AssemblyInfoInputs.cache
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Contracts\obj\Debug\netcoreapp2.1\Contracts.AssemblyInfo.cs
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Contracts\obj\Debug\netcoreapp2.1\Contracts.dll
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Contracts\obj\Debug\netcoreapp2.1\Contracts.pdb

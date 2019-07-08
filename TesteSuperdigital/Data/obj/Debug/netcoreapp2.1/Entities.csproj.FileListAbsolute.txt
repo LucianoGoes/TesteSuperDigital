@@ -1,0 +1,9 @@
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Data\bin\Debug\netcoreapp2.1\Entities.deps.json
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Data\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Data\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Data\obj\Debug\netcoreapp2.1\Entities.csproj.CoreCompileInputs.cache
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Data\obj\Debug\netcoreapp2.1\Entities.AssemblyInfoInputs.cache
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Data\obj\Debug\netcoreapp2.1\Entities.AssemblyInfo.cs
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Data\obj\Debug\netcoreapp2.1\Entities.dll
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Data\obj\Debug\netcoreapp2.1\Entities.pdb
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Data\obj\Debug\netcoreapp2.1\Entities.csprojAssemblyReference.cache

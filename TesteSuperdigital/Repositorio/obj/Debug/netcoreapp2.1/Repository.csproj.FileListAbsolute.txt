@@ -1,0 +1,14 @@
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Repositorio\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Repositorio\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Repositorio\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Repositorio\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Repositorio\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Repositorio\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Repositorio\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Repositorio\bin\Debug\netcoreapp2.1\Contracts.dll
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Repositorio\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Repositorio\bin\Debug\netcoreapp2.1\Contracts.pdb
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Repositorio\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Repositorio\obj\Debug\netcoreapp2.1\Repository.csproj.CopyComplete
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Repositorio\obj\Debug\netcoreapp2.1\Repository.dll
+C:\Dados\Estudo\Projetos\Test\SuperDigital\TesteConta\Repositorio\obj\Debug\netcoreapp2.1\Repository.pdb
